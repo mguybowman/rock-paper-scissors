@@ -1,0 +1,1 @@
+Rock Paper Scissors implementation assigned by the Foundations course of The Odin Project.
