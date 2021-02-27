@@ -1,1 +1,1 @@
-Rock Paper Scissors implementation assigned by the Foundations course of The Odin Project.
+Rock Paper Scissors implementation assigned by the Foundations course of The Odin Project. The console-only.html version is from JavaScript Basics Chapter 6 (Project: Rock Paper Scissors). The index.html version is from JavaScript Basics Chapter 9 (DOM manipulation).
